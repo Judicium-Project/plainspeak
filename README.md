@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Judicium-Project/natural-caveman/blob/abcd/plainspeak-banner(1).png?raw=true" alt="plainspeak banner" width="100%">
+  <img src="https://github.com/Judicium-Project/plainspeak/blob/img/plainspeak-banner(1).png?raw=true" alt="plainspeak banner" width="100%">
 </p>
 
 <p align="center">
